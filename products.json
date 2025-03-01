@@ -1,0 +1,16 @@
+{
+  "9dbcf499-18ea-4ff2-8de1-932abc679b70": {
+    "id": "9dbcf499-18ea-4ff2-8de1-932abc679b70",
+    "name": "Kopiko Blanca",
+    "price": 9,
+    "quantity": 5,
+    "image": "image-url.png"
+  },
+  "e907fe23-d39a-4c77-a81a-7ab60ddf882c": {
+    "id": "e907fe23-d39a-4c77-a81a-7ab60ddf882c",
+    "name": "Greatest White",
+    "price": 8,
+    "quantity": 10,
+    "image": "image-url.png"
+  }
+}
